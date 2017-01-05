@@ -1,0 +1,31 @@
+"*":
+  "advanced-open-file":
+    fuzzyMatch: true
+  core:
+    disabledPackages: [
+      "easy-motion-redux"
+      "ex-mode"
+      "pigments"
+    ]
+    packagesWithKeymapsDisabled: []
+    telemetryConsent: "no"
+    themes: [
+      "one-dark-ui"
+      "monokai"
+    ]
+  "easy-motion-redux": {}
+  editor:
+    showIndentGuide: true
+  "exception-reporting":
+    userId: "3ca80eb1-c6be-5dae-0b71-ea54ab3d82ad"
+  jumpy: {}
+  "vim-mode":
+    useSmartcaseForSearch: true
+  "vim-mode-plus":
+    highlightSearch: true
+    smoothScrollOnFullScrollMotion: true
+    smoothScrollOnFullScrollMotionDuration: 200
+    smoothScrollOnHalfScrollMotion: true
+    smoothScrollOnHalfScrollMotionDuration: 250
+  welcome:
+    showOnStartup: false
