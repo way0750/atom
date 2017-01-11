@@ -19,6 +19,8 @@
   "exception-reporting":
     userId: "3ca80eb1-c6be-5dae-0b71-ea54ab3d82ad"
   jumpy: {}
+  "relative-numbers":
+    trueNumberCurrentLine: false
   "vim-mode":
     useSmartcaseForSearch: true
   "vim-mode-plus":
