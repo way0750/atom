@@ -2,6 +2,5 @@ blob-store
 compile-cache
 recovery
 storage
-init.coffee
 .apm
 .node-gyp

@@ -33,8 +33,7 @@
   'cmd-n': 'pane:split-right'
 
 # in insertMode
-'atom-text-editor.vim-mode-plus.insert-mode,
- atom-text-editor.vim-mode-plus.visual-mode':
+'atom-text-editor.vim-mode-plus:not(.normal-mode)':
   'j k': 'vim-mode-plus:reset-normal-mode' # in visual-mode
 
 'atom-text-editor.vim-mode-plus.normal-mode':
